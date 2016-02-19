@@ -1,0 +1,29 @@
+{
+  "name": "primeirospassos",
+  "version": "1.0.0",
+  "description": "Projeto demo",
+  "main": "index.js",
+  "dependencies": {
+    "css-minifiers": "^2.0.1",
+    "less": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroddf/testes.git"
+  },
+  "keywords": [
+    "teste",
+    "javascript",
+    "git"
+  ],
+  "author": "Pedro Dias D F",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroddf/testes/issues"
+  },
+  "homepage": "https://github.com/pedroddf/testes#readme"
+}
